@@ -19,6 +19,6 @@
 <h3 align="center">Statistics</h3>
 <br>
 <div align=center>
-   <img src="https://github-readme-stats.vercel.app/api?username=DebianLam&custom_title=My Statistics&show_icons=true&account_private=true&theme=holi&rank_icon=github&border_radius=7" alt="stats" />
+   <img src="https://github-readme-stats.vercel.app/api?username=dbl-Lm&custom_title=My Statistics&show_icons=true&account_private=true&theme=holi&rank_icon=github&border_radius=7" alt="stats" />
    <img width=355 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebianLam&langs_count=8&theme=holi&border_radius=7" alt="top used languages" />
 </div>

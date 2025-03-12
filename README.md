@@ -2,7 +2,7 @@
 <h1 align="center">Hi! I am Deb.</h1>
 
 <div align="center">
-<h3>Currently working on: Something</h3>
+<h3>Currently working on: Something </h3>
  </div>
  
 <hr/>

@@ -11,7 +11,7 @@
 <br/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,debian,html,css,js,electron,java,c,py,visualstudio,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,debian,html,css,js,electron,cpp,c,py,visualstudio,vscode&theme=dark" />
   </a>
 </p>
 <hr/>

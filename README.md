@@ -2,7 +2,7 @@
 <h1 align="center">Hi! I am Deb.</h1>
 
 <div align="center">
-<h3>Currently working on: Nothing? </h3>
+<h3>Currently working on: Some Project That Uses Java 😭 </h3>
  </div>
  
 <hr/>
